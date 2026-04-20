@@ -89,9 +89,3 @@ pip install ultralytics pyserial opencv-python
 # Chạy AI Engine
 python main.py</code></pre>
 
-<hr>
-<h2>Thành viên thực hiện</h2>
-<ul>
-  <li><b>Trần Thị Kim Duyên</b> (MSSV: 087305001729): Phụ trách logic Timer, hiển thị LCD và quản lý ngắt.</li>
-  <li><b>Nguyễn Trung Chí Hào</b> (MSSV: 086205008809): Phụ trách AI YOLO11, giao tiếp UART và tích hợp hệ thống.</li>
-</ul>
